@@ -1,9 +1,10 @@
 Package: casparnitinlab3inr
 Type: Package
-Title: What the package does (short line)
+Title: casparnitinlab3inr
 Version: 1.0
 Date: 2018-09-17
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: caspar sylwan <casparsylwan@gmail.com>, nitin kumar <datasciens@gmail.com>
+Maintainer: Caspar Sylwan <caspar.sylwan@gmail.com>
+Description: The two functions are GCD and Dijkstra. GCD finds the greatest common divisor and Dijkstra find the shortest path between in a graph.
+License: GPL-3
+encoding: UTF-8
